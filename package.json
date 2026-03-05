@@ -1,0 +1,15 @@
+{
+  "name": "gis-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gis1.js",
+  "scripts": {
+  "dev": "node gis1.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
